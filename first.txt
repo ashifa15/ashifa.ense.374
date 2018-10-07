@@ -1,1 +1,3 @@
 My first line in the text file.
+
+Second line in the file.
